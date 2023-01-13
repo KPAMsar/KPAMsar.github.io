@@ -1,0 +1,121 @@
+::selection {
+  background: rgba(26, 179, 148, 0.3);
+}
+
+::-moz-selection {
+  background: rgba(26, 179, 148, 0.3);
+}
+
+.pill-button {
+  color: #1f4ec2;
+}
+
+.pill-button:hover, .pill-button.active {
+  color: #1f4ec2;
+}
+
+.overlay-menu a:hover {
+  color: #1f4ec2 !important;
+}
+
+.overlay-menu a.active {
+  color: #1f4ec2 !important;
+}
+
+.bg-base-color {
+  background-color: #1f4ec2 !important;
+}
+
+.base-color {
+  color: #1f4ec2 !important;
+}
+
+.follow-label::before {
+  background-color: #1f4ec2;
+}
+
+.social a:hover {
+  color: #1f4ec2 !important;
+}
+
+.social-icon a:hover {
+  color: #1f4ec2;
+}
+
+#pp-nav li:hover span {
+  background-color: #1f4ec2 !important;
+}
+
+#pp-nav li .active span {
+  background-color: #1f4ec2 !important;
+}
+
+.border-style {
+  background-color: #1f4ec2;
+}
+
+.timeline-icon {
+  border: 1px solid #1f4ec2;
+  background-color: #1f4ec2;
+}
+
+.timeline-year {
+  color: #1f4ec2;
+}
+
+.timeline-item:before {
+  border: 1px solid #1f4ec2;
+}
+
+.skill-box .fill-skillbar {
+  background-color: #1f4ec2;
+}
+
+.portfolio .portfolio-filter li a {
+  color: #1f4ec2;
+}
+
+.testimonial .owl-dot.active span {
+  background-color: #1f4ec2;
+}
+
+.blog-link a:hover {
+  color: #0c9b7e !important;
+}
+
+.portfolio .portfolio-item-content:before {
+  background-color: rgba(26, 179, 148, 0.9);
+}
+
+.portfolio .portfolio-icon button i, .portfolio .portfolio-icon a i {
+  color: #1f4ec2;
+}
+
+.testimonial .owl-carousel .owl-dot.active span {
+  background-color: #1f4ec2;
+}
+
+.contact .form-item .form-control {
+  color: #1f4ec2;
+}
+
+.loader {
+  border-top: 4px solid #1f4ec2 !important;
+}
+
+.flat-demo .button-border, .arshia-dark.flat-demo .button-border {
+  background-color: #1f4ec2;
+}
+
+.flat-demo .pill-button:hover, .flat-demo .pill-button.active {
+  background-color: #0c9b7e;
+}
+
+.arshia-dark .social-icon a:hover, .arshia-dark .social a:hover {
+  color: #1f4ec2 !important;
+}
+
+.arshia-dark #pp-nav li .active span {
+  background-color: #1f4ec2 !important;
+}
+/*# sourceMappingURL=green-color.css.map */
