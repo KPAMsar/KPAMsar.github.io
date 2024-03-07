@@ -237,7 +237,7 @@ a, button {
 }
 
 .color-switcher ul.pattern .color1 {
-  background: #1f4ec2;
+  background: #0b0b45;
 }
 
 .color-switcher ul.pattern .color2 {
@@ -698,7 +698,7 @@ canvas.particles-js-canvas-el {
 .hero-03 .circle {
   width: 85px;
   height: 85px;
-  background: #1f4ec2;
+  background: #0b0b45;
   border-radius: 50%;
   opacity: 0.9;
   position: absolute;
